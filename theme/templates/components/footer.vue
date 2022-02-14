@@ -25,7 +25,7 @@
               .footer__item--158fcb94-3842-4595-8844-9f971c660134 {
                 width: 28%;
               }
-
+              
             }</style><div class="footer__item-padding"><p class="h4 footer__title small--hide">Payment's Accepted</p>
     <div id="Footer-158fcb94-3842-4595-8844-9f971c660134" class="collapsible-content collapsible-content--small">
     <div class="collapsible-content__inner">
